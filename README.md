@@ -1,10 +1,10 @@
 # Akash Banger  
-**Founding Engineer @ Optifye.ai** │ Final-Year B.Tech (Aerospace Engineering) @ IIT Bombay  
+**Founding Engineer @ Optifye.ai** 
 
 ---
 
 ## 🎯 About Me  
-I’m a passionate full-stack engineer and data systems specialist with a foundation in aerospace engineering from IIT Bombay. Across 4+ years of self-driven learning, internships and full-stack projects, I’ve built robust systems spanning backend, data engineering, AI-driven pipelines and end-to-end architectures.  
+Across 4+ years of self-driven learning, internships and full-stack projects, I’ve built robust systems spanning backend, data engineering, AI-driven pipelines and end-to-end architectures.  
 Currently, at Optifye.ai, I’m part of the founding engineering team driving the next generation of operational-AI for manufacturing—building systems that turn live factory-floor data into actionable insight and real-time optimisation.
 
 ---
@@ -13,11 +13,7 @@ Currently, at Optifye.ai, I’m part of the founding engineering team driving th
 
 ### **Founding Engineer**, Optifye.ai (YC W25)  
 January 2025 - Present  
-- Collaborating on architecture and implementation of the core product: a computer-vision + analytics platform for manufacturing operations that turns IP-camera feeds into real-time dashboards, bottleneck detection and cycle-time analytics. :contentReference[oaicite:1]{index=1}  
-- Building backend services (in Python/FastAPI), scalable data pipelines and microservices to support streaming video ingestion, real-time inference, metrics computation and dashboards.  
-- Designing and deploying data infrastructure and metrics stores to support manufacturing KPIs (efficiency, throughput, quality).  
-- Helping define and execute on the product vision: moving manufacturing from manual & retrospective to data-driven and proactive.  
-- Working in a high-velocity startup environment, collaborating closely with product, vision/ML, hardware and operations teams to deliver full-stack end-to-end solutions.
+Building future of manufacturing industry.
 
 ### Previous Internships & Key Projects  
 #### Software Engineer Intern – Thread  
@@ -27,43 +23,18 @@ January 2025 - Present
 #### Data Engineer Intern – Orca AI  
 - Designed and implemented data ingestion, ETL pipelines, and data modelling for operational datasets, enabling analytics and reports.
 
-### Academic Project – ‘Yeabook’ (Student Alumni Relations Cell, IIT Bombay)  
-- Led the creation of the Yearbook 2023 web platform: frontend, backend, caching (Redis), search (Elasticsearch), containerised deployment (Docker) in under one month.  
-- Additionally developed a Flutter app version during April 2024, supporting thousands of concurrent users with limited infrastructure.
-
 ---
 
 ## 🎓 Education  
 **B.Tech in Aerospace Engineering**  
 Indian Institute of Technology, Bombay (IIT Bombay)  
-- Final year – Second last semester underway  
 - Coursework & projects across software systems, data engineering, AI/ML, full-stack development.
-
----
-
-## 🛠 Skills & Technical Stack  
-- **Languages**: Python, JavaScript/TypeScript, SQL  
-- **Backend**: FastAPI, Django (experience), Microservices, REST/GraphQL APIs  
-- **Frontend**: React + TypeScript, Flutter (mobile)  
-- **Databases & Data**: PostgreSQL, Redis, Elasticsearch, streaming data systems  
-- **AI/ML & Data Engineering**: Prompt engineering, LLMs, vector stores, retrieval-augmented generation (RAG), custom pipelines (Prefect, Airflow)  
-- **DevOps/Cloud**: Docker, containerised deployment, CI/CD, Azure (free-tier optimisation)  
-- **System Design & Architecture**: High-traffic web apps, real-time streaming + socket connections, live video handling (RTSP)  
-- **Soft Skills**: Self-starter, end-to-end ownership, cross-discipline collaboration (engineering ↔ product ↔ ops).
 
 ---
 
 ## 🌱 Current Focus  
 - Driving the engineering architecture and growth for Optifye.ai’s manufacturing-AI product: from streaming video ingestion, vision/analytics pipelines to real-time dashboards and actionable insights.  
 - Exploring full-stack systems that integrate LLMs and agents into production workflows (data/AI + backend + cloud + microservices).  
-- Sharing my learning journey on LinkedIn: diving deep into system design, data engineering, AI system architecture and full-stack development.
-
----
-
-## 📫 Let’s Connect  
-- LinkedIn: [linkedin.com/in/akash-banger](https://www.linkedin.com/in/akash-banger/)  
-- GitHub: (your GitHub handle)  
-- Email: (your email)  
 
 ---
 
