@@ -1,9 +1,74 @@
-# 💫 About Me:
-# Akash Banger  <br>**Founding Engineer @ Optifye.ai** │ Final-Year B.Tech (Aerospace Engineering) @ IIT Bombay  <br><br>---<br><br>## 🎯 About Me  <br>I’m a passionate full-stack engineer and data systems specialist with a foundation in aerospace engineering from IIT Bombay. Across 4+ years of self-driven learning, internships and full-stack projects, I’ve built robust systems spanning backend, data engineering, AI-driven pipelines and end-to-end architectures.  <br>Currently, at Optifye.ai, I’m part of the founding engineering team driving the next generation of operational-AI for manufacturing—building systems that turn live factory-floor data into actionable insight and real-time optimisation.<br><br>---<br><br>## 🧑‍💼 Experience  <br><br>### **Founding Engineer**, Optifye.ai (YC W25)  <br>January 2025 - Present  <br>- Collaborating on architecture and implementation of the core product: a computer-vision + analytics platform for manufacturing operations that turns IP-camera feeds into real-time dashboards, bottleneck detection and cycle-time analytics. :contentReference[oaicite:1]{index=1}  <br>- Building backend services (in Python/FastAPI), scalable data pipelines and microservices to support streaming video ingestion, real-time inference, metrics computation and dashboards.  <br>- Designing and deploying data infrastructure and metrics stores to support manufacturing KPIs (efficiency, throughput, quality).  <br>- Helping define and execute on the product vision: moving manufacturing from manual & retrospective to data-driven and proactive.  <br>- Working in a high-velocity startup environment, collaborating closely with product, vision/ML, hardware and operations teams to deliver full-stack end-to-end solutions.<br><br>### Previous Internships & Key Projects  <br>#### Software Engineer Intern – Thread  <br>- Developed backend systems for cloud-based services, APIs and integration of AI/ML modules for production features.  <br>#### Full Stack Software Engineer Intern – Magyk.Ai  <br>- Built end-to-end web applications (frontend + backend) using modern JS/React, Python backend and Postgres; deployed on cloud.  <br>#### Data Engineer Intern – Orca AI  <br>- Designed and implemented data ingestion, ETL pipelines, and data modelling for operational datasets, enabling analytics and reports.<br><br>### Academic Project – ‘Yeabook’ (Student Alumni Relations Cell, IIT Bombay)  <br>- Led the creation of the Yearbook 2023 web platform: frontend, backend, caching (Redis), search (Elasticsearch), containerised deployment (Docker) in under one month.  <br>- Additionally developed a Flutter app version during April 2024, supporting thousands of concurrent users with limited infrastructure.<br><br>---<br><br>## 🎓 Education  <br>**B.Tech in Aerospace Engineering**  <br>Indian Institute of Technology, Bombay (IIT Bombay)  <br>- Final year – Second last semester underway  <br>- Coursework & projects across software systems, data engineering, AI/ML, full-stack development.<br><br>---<br><br>## 🛠 Skills & Technical Stack  <br>- **Languages**: Python, JavaScript/TypeScript, SQL  <br>- **Backend**: FastAPI, Django (experience), Microservices, REST/GraphQL APIs  <br>- **Frontend**: React + TypeScript, Flutter (mobile)  <br>- **Databases & Data**: PostgreSQL, Redis, Elasticsearch, streaming data systems  <br>- **AI/ML & Data Engineering**: Prompt engineering, LLMs, vector stores, retrieval-augmented generation (RAG), custom pipelines (Prefect, Airflow)  <br>- **DevOps/Cloud**: Docker, containerised deployment, CI/CD, Azure (free-tier optimisation)  <br>- **System Design & Architecture**: High-traffic web apps, real-time streaming + socket connections, live video handling (RTSP)  <br>- **Soft Skills**: Self-starter, end-to-end ownership, cross-discipline collaboration (engineering ↔ product ↔ ops).<br><br>---<br><br>## 🌱 Current Focus  <br>- Driving the engineering architecture and growth for Optifye.ai’s manufacturing-AI product: from streaming video ingestion, vision/analytics pipelines to real-time dashboards and actionable insights.  <br>- Exploring full-stack systems that integrate LLMs and agents into production workflows (data/AI + backend + cloud + microservices).  <br>- Sharing my learning journey on LinkedIn: diving deep into system design, data engineering, AI system architecture and full-stack development.<br><br>---<br><br>## 📫 Let’s Connect  <br>- LinkedIn: [linkedin.com/in/akash-banger](https://www.linkedin.com/in/akash-banger/)  <br>- GitHub: (your GitHub handle)  <br>- Email: (your email)  <br><br>---<br><br>Thanks for dropping by — feel free to look at my projects or reach out if you want to collaborate on something exciting!<br>
+# Akash Banger  
+**Founding Engineer @ Optifye.ai** │ Final-Year B.Tech (Aerospace Engineering) @ IIT Bombay  
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash.banger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/akash-banger/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashbanger2@gmail.com) 
+## 🎯 About Me  
+I’m a passionate full-stack engineer and data systems specialist with a foundation in aerospace engineering from IIT Bombay. Across 4+ years of self-driven learning, internships and full-stack projects, I’ve built robust systems spanning backend, data engineering, AI-driven pipelines and end-to-end architectures.  
+Currently, at Optifye.ai, I’m part of the founding engineering team driving the next generation of operational-AI for manufacturing—building systems that turn live factory-floor data into actionable insight and real-time optimisation.
+
+---
+
+## 🧑‍💼 Experience  
+
+### **Founding Engineer**, Optifye.ai (YC W25)  
+January 2025 - Present  
+- Collaborating on architecture and implementation of the core product: a computer-vision + analytics platform for manufacturing operations that turns IP-camera feeds into real-time dashboards, bottleneck detection and cycle-time analytics. :contentReference[oaicite:1]{index=1}  
+- Building backend services (in Python/FastAPI), scalable data pipelines and microservices to support streaming video ingestion, real-time inference, metrics computation and dashboards.  
+- Designing and deploying data infrastructure and metrics stores to support manufacturing KPIs (efficiency, throughput, quality).  
+- Helping define and execute on the product vision: moving manufacturing from manual & retrospective to data-driven and proactive.  
+- Working in a high-velocity startup environment, collaborating closely with product, vision/ML, hardware and operations teams to deliver full-stack end-to-end solutions.
+
+### Previous Internships & Key Projects  
+#### Software Engineer Intern – Thread  
+- Developed backend systems for cloud-based services, APIs and integration of AI/ML modules for production features.  
+#### Full Stack Software Engineer Intern – Magyk.Ai  
+- Built end-to-end web applications (frontend + backend) using modern JS/React, Python backend and Postgres; deployed on cloud.  
+#### Data Engineer Intern – Orca AI  
+- Designed and implemented data ingestion, ETL pipelines, and data modelling for operational datasets, enabling analytics and reports.
+
+### Academic Project – ‘Yeabook’ (Student Alumni Relations Cell, IIT Bombay)  
+- Led the creation of the Yearbook 2023 web platform: frontend, backend, caching (Redis), search (Elasticsearch), containerised deployment (Docker) in under one month.  
+- Additionally developed a Flutter app version during April 2024, supporting thousands of concurrent users with limited infrastructure.
+
+---
+
+## 🎓 Education  
+**B.Tech in Aerospace Engineering**  
+Indian Institute of Technology, Bombay (IIT Bombay)  
+- Final year – Second last semester underway  
+- Coursework & projects across software systems, data engineering, AI/ML, full-stack development.
+
+---
+
+## 🛠 Skills & Technical Stack  
+- **Languages**: Python, JavaScript/TypeScript, SQL  
+- **Backend**: FastAPI, Django (experience), Microservices, REST/GraphQL APIs  
+- **Frontend**: React + TypeScript, Flutter (mobile)  
+- **Databases & Data**: PostgreSQL, Redis, Elasticsearch, streaming data systems  
+- **AI/ML & Data Engineering**: Prompt engineering, LLMs, vector stores, retrieval-augmented generation (RAG), custom pipelines (Prefect, Airflow)  
+- **DevOps/Cloud**: Docker, containerised deployment, CI/CD, Azure (free-tier optimisation)  
+- **System Design & Architecture**: High-traffic web apps, real-time streaming + socket connections, live video handling (RTSP)  
+- **Soft Skills**: Self-starter, end-to-end ownership, cross-discipline collaboration (engineering ↔ product ↔ ops).
+
+---
+
+## 🌱 Current Focus  
+- Driving the engineering architecture and growth for Optifye.ai’s manufacturing-AI product: from streaming video ingestion, vision/analytics pipelines to real-time dashboards and actionable insights.  
+- Exploring full-stack systems that integrate LLMs and agents into production workflows (data/AI + backend + cloud + microservices).  
+- Sharing my learning journey on LinkedIn: diving deep into system design, data engineering, AI system architecture and full-stack development.
+
+---
+
+## 📫 Let’s Connect  
+- LinkedIn: [linkedin.com/in/akash-banger](https://www.linkedin.com/in/akash-banger/)  
+- GitHub: (your GitHub handle)  
+- Email: (your email)  
+
+---
+
+Thanks for dropping by — feel free to look at my projects or reach out if you want to collaborate on something exciting!
+
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
